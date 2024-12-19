@@ -1,0 +1,32 @@
+{
+    "model": "page",
+    "srcType": "contentful",
+    "srcProjectId": "3tzt6wdb35tj",
+    "presets": [
+        {
+            "label": "Coffee",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Drink"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Home Page",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$ref": "1waD7wlBFDmDTKcI18NXO0",
+                        "$$type": "hero"
+                    },
+                    {
+                        "$$ref": "55B39LpWGFDQvt4kYYif6g",
+                        "$$type": "stats"
+                    }
+                ]
+            },
+            "thumbnail": "images/page-coffee-6144.png"
+        }
+    ]
+}
