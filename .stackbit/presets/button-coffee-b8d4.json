@@ -1,0 +1,23 @@
+{
+    "model": "button",
+    "srcType": "contentful",
+    "srcProjectId": "3tzt6wdb35tj",
+    "presets": [
+        {
+            "label": "Coffee",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Drink"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Coffee Varians",
+                "url": "/",
+                "theme": "outline"
+            },
+            "thumbnail": "images/button-coffee-b8d4.png"
+        }
+    ]
+}
